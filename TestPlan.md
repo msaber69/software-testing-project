@@ -52,14 +52,3 @@ This document outlines the test plan for verifying the functionality and reliabi
 
 
 
-## Success Criteria
-The test is considered successful if all test steps pass without critical issues. Any deviations or minor issues should be documented.
-
-## Bug Tracking
-Document any bugs found during testing related to the "Employees" and "Teams" sections in the "Issues" section of the GitHub project.
-
-## Log of Decisions and Questions
-Document any decisions made during testing, such as changes to the test plan or testing environment. Record any questions that arise during testing, and if answered, provide the solution.
-
-## Test Results
-Provide a summary of the test results, indicating whether the test was successful or if any issues were encountered, specifically focusing on the "Employees" and "Teams" sections.
